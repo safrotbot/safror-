@@ -1,47 +1,48 @@
-# `𝑍𝐸𝑅𝛩-𝐵𝛩𝑇` 
+# `♯ЅᗩFᏒOT꙯-𝐵Ö𝑇` 
 
-# `مرحبا بك في زيرو بوت اول بوت واتساب عربي` 
+# `مرحبا بك في سفروت بوت اول بوت واتساب عربي` 
 <p align="center">
-<img src="https://telegra.ph/file/2e035afe2fb8ccfd353c6.jpg" alt="⁨𝐻𝐴𝑅𝐿𝐸𝑌 𝐿𝐼𝐺𝐻𝑇⁩" width="900"/>
+<img src="https://telegra.ph/file/69a507be33367573ede29.jpg" alt="⁨♯ЅᗩFᏒOT꙯⁩" width="900"/>
 </p>
 
 ------------------
 > **ملاحظة**: أنا "LIGHT"، تقاعدت من كل ما يتعلق بالبوت أو المواضيع المشابهة، لذا في مرحلة ما سيصبح قديمًا و/أو ستتوقف بعض الأوامر عن العمل.  أنا أقدر تفضيلك خلال الرحلة عبر عالم الروبوتات هذا.
 
-> 𝑍𝐸𝑅𝛩-𝐵𝛩𝑇 يتم ترك الأمر في أيدي المتعاونين، وباعتباره الممثل الرئيسي 
+> *♯ЅᗩFᏒOT꙯-𝐵𝛩𝑇* يتم ترك الأمر في أيدي المتعاونين، وباعتباره الممثل الرئيسي 
 ------------------
 
 > اللغه الرئيسيه التي اشتغل عليها المطور هي *العربيه*
 
 ### `▢ الحسابات الرسمية`
 
-[ 🔗 ] https://atom.bio/harley_light
+[ 🔗 ] https://atom.bio/safrotbob-376
+
 
 ### `▢ مجموعات الدعم (متوفرة)`
 
- <a href="https://chat.whatsapp.com/H93YpO0LkJNHoTmtIhcL1z" target="blank"><img src="https://img.shields.io/badge/جروب دعم لايت_بوت_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+ <a href="https://chat.whatsapp.com/ClNQxTnKyFx6eZnJcvqsPY" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-<a href="https://chat.whatsapp.com/H93YpO0LkJNHoTmtIhcL1z" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://chat.whatsapp.com/ClNQxTnKyFx6eZnJcvqsPY" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-<a href="https://chat.whatsapp.com/H93YpO0LkJNHoTmtIhcL1z" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://chat.whatsapp.com/ClNQxTnKyFx6eZnJcvqsPY" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 > [ 📌 ] لا يُسمح بالبوتات الاخري في مجموعات الدعم.
 
  ### `▢رقم المطور الرسمي (نشط)`
 
 
-<a href="https://api.whatsapp.com/send/?phone=201280244814&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=201115618853&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="https://api.whatsapp.com/send/?phone=201159106301&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="[https://img.shields.io/badge/BOT_OFICIAL_2_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://telegra.ph/file/bda9ed97f962db2e7f154.jpg)" />
+<a href="https://api.whatsapp.com/send/?phone=201115618853&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="[https://img.shields.io/badge/BOT_OFICIAL_2_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://telegra.ph/file/bda9ed97f962db2e7f154.jpg)" />
 
 ### `▢يوتيوب المطور الرسمي (نشط)`
 
-<a href="http://www.youtube.com/@HARLEY_247">
+<a href="https://youtube.com/@SAFROT?si=mIIP89BDNuzJ60zQ">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
 ### `▢يوتيوب المطور الرسمي (نشط)`
-<a href="http://www.youtube.com/@HARLEY_247">
+<a href="https://youtube.com/@SAFROT?si=mIIP89BDNuzJ60zQ">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
